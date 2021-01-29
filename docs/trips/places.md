@@ -1,0 +1,6 @@
+---
+title: Places
+---
+
+# Trips to ...
+
